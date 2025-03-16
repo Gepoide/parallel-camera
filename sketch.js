@@ -16,7 +16,7 @@ function setup() {
   updateGrid();
   
   updateCapture();
-  pixelDensity(1);
+  
 }
 
 function cycleCamera() {
